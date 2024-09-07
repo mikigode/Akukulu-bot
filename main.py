@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import KeyboardButton, ReplyKeyboardMarkup, InlineKeyboardMarkup, InlineKeyboardButton
 
 API_TOKEN = "6417148529:AAFOM2umzWM7GOq0hoiL-VTuQ3DSdk0XnEc"
-group_id = -4169288646
+group_id = -1002014551406
 group2_id = -1002049831009
 group3_id= -4124396171
 
