@@ -5,7 +5,7 @@ from aiogram.types import KeyboardButton, ReplyKeyboardMarkup, InlineKeyboardMar
 API_TOKEN = "6417148529:AAFOM2umzWM7GOq0hoiL-VTuQ3DSdk0XnEc"
 group_id = -1002014551406
 group2_id = -1002049831009
-group3_id= -4124396171
+group3_id= -1002018554869
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
